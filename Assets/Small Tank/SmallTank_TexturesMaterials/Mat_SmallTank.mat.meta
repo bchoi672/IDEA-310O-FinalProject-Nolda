@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10b87cf577639a34b83743239ce85a2f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 186792
+  packageName: Small Tank
+  packageVersion: 1.0
+  assetPath: Assets/Small Tank/SmallTank_TexturesMaterials/Mat_SmallTank.mat
+  uploadId: 410592
